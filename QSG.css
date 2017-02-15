@@ -1,0 +1,41 @@
+body {
+border:solid;
+border-width:3px;
+border-color: white;
+background-color:#000000;
+color:white;
+}
+#top_picture{
+margin-right:20%;
+margin-left:18%;
+}
+#subtitle1{
+text-align:center;
+font-family:impact;
+}
+#subtitle2{
+text-align:center;
+font-family:impact;
+}
+p{
+text-align:center;
+font-family:impact;
+}
+#menu {
+background-color: white;
+text-align:center;
+font-family:impact;
+}
+#menu2 {
+background-color: white;
+text-align:center;
+font-family:impact;
+}
+li{
+padding:5px;
+list-style-type: none;
+}
+a:hover {
+    color: red;
+	}
+	

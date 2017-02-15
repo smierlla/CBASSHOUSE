@@ -1,0 +1,94 @@
+#welcome_title{ color:white;
+text-align: center;
+font-family: Impact;}
+
+body {
+display: -webkit-box;
+-webkit-box-pack:center;
+border:solid;
+border-width:3px;
+border-color: white;
+background-color:#000000;
+}
+
+#main_wrapper{
+display: -webkit-box;
+-webkit-box-orient:vertical;
+-webkit-box-flex:1;
+}
+
+#wmessage{
+text-align:center;
+font-size:20px;
+color:white;
+}
+
+#hpic{
+position:relative;
+left:15%;
+}
+
+li{
+padding:5px;
+list-style-type: none;
+}
+
+#footer{
+text-align:center;
+font-family: Courier New;
+color:white;
+}
+#menu{
+font-family: Impact;
+background-color:white;
+border:solid;
+border-width:3px;
+border-color:white;
+width: 40%;
+margin-top:5px;
+margin-right:30%;
+margin-left:30%;
+padding-right:20px;
+padding-left:20px;
+text-align: center;
+
+
+}
+#video{
+margin-left:40%;
+margin-right:40%;
+margin-top:5%;
+}
+#QSG{
+border:solid;
+border-color:black;
+margin-right: 38px;
+margin-left: 10px;
+margin-bottom:3px;
+}
+#TP{
+border:solid;
+border-color:black;
+margin-right: 38px;
+margin-left: 10px;
+margin-bottom:3px
+}
+#about{
+border:solid;
+border-color:black;
+margin-right: 38px;
+margin-left: 10px;
+margin-bottom:3px
+}
+#QA{
+border:solid;
+border-color:black;
+margin-right: 38px;
+margin-left: 10px;
+margin-bottom:3px
+}
+
+a:hover {
+    color: red;
+	}
+	

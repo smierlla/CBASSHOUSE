@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" href= "forum.css">
+<title> Cbass house</title>
+<script> alert("send us your questions");</script>
+<link rel="stylesheet" href="JS1/jquery-ui-1.11.4/jquery-ui.css"/>
+		<script type="text/javascript" src="JS1/JQuery.js"></script>
+		<script type="text/javascript" src="JS1/jquery-ui-1.11.4/jquery-ui.js"></script>
+		<script type="text/javascript" src="JS1/forum.js"></script>
+		<script>
+		$(function(){
+		$( "#birthday" ).datepicker();
+       });
+	   </script>
+	   <script>
+  $(function() {
+    var availableTags = [
+      "Male",
+      "Female"
+    ];
+    $( "#tags" ).autocomplete({
+      source: availableTags
+    });
+  });
+  </script>
+
+</head>
+<body>
+<header>
+<img id="QPIC" src= "images/questions.jpg" alt="question image" width="900" height="350" />
+<h1 id="main_title">Device questions</h1>
+<p id="forumrules"> forums rules apply!. the forum is made for only one purpose, if you have a questions regarding your device or a device that you want please don't hesitate to leave your comments! the comments will be anonymous and no one else will be able to see them. so ask away!</p>
+</header>
+<section>
+<article id="comments">
+<p> Please feel free to leave us your comments and thoughts</p>
+<form action="test" method="post">
+<label id="label1"> Name:<input type="text" name="name"/></label><br>
+<label id="label3">When is your birthday?<input id ="birthday" type="text"  value="click to pick a date"/><br /></label>
+<label id="label5">gender <input id="tags" type="text" required="" placeholder="Male or Female" /><br /></label>
+<label id="label4">Email address <input type="email" name="email" required placeholder="Enter a valid email address" /><br /></label>
+<label id="label2"> Comment:<textarea cols="35" rows="6" name="comment"></textarea></label><br>
+<input type="submit" name="post" value="Post">
+</form>
+</article>
+<article id="email">
+<p> please send us your questions</p>
+<p> write us at questions@gmail.com</p>
+</article>
+</section>
+<hr>
+<footer>
+<p><a href="homepage.html">Homepage</a></p>
+<p><a href="http://validator.w3.org/"> validator</a></p>
+<p> copyright &copy; cbass house 2015 </p>
+</footer>
+</body>
+</html>

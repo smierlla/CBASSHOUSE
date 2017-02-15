@@ -1,0 +1,40 @@
+
+body {
+border:solid;
+border-width:3px;
+border-color: white;
+background-color:#000000;
+font-family:impact;
+color:white;
+}
+
+#mainpic{
+margin-left:18%;
+}
+
+#main{
+text-align:center;
+}
+
+
+
+#sidenews {
+margin-left:78%;
+width:215px;
+margin-top: -550px;
+margin-bottom:0%;
+margin-right:10px;
+padding:25px;
+background:white;
+color:black;
+}
+
+#footer{
+text-align:center;
+margin-top:20%
+}
+
+td {
+border:solid;
+border-color: white;
+}

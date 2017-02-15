@@ -1,0 +1,13 @@
+The changes that I incorporated in phase 2 of the project was a javascript alert message on the heading of my html that way when users are trying to look at my page they will
+be alerted of the new devices that are out . as well as to leave all the questions in my Q&A page. the website that I build basicaly helps  people who are new to the 
+smarthphone industry  as well as those people who just want to get the most out of their cell phone devices. the reason I did this website , was beucause I feel that it will help 
+maximize the productivity and helfuness that we offer to our customers at my job ( T-Mobile).
+
+*In phase 3 of the projects I addeed new pictures to my page and fixed my html code so that it was in stadard with the validator. 
+I also made sure that all of the java script code worked accordingly.
+
+*In phase 4 of my website a I added Jquery to my "questions and answers page" so when a user fill out the fields some of them will outo complete and  it will also
+ provided them with a datepicker aplication.
+
+* All of the website videos will be eventually replaced with my own creations and i am also planing to add php
+ and Mysql later on in my career at uncc.

@@ -1,0 +1,109 @@
+
+
+
+
+
+body {
+border:solid;
+border-width:3px;
+border-color: white;
+background-color:#000000;
+font-family:impact;
+color:white;
+}
+
+p{
+text-align:center;
+}
+
+#mainpic {
+margin-right:20%;
+margin-left:20%;
+}
+
+#navigation {
+text-align:center;
+background-color:white;
+border:dashed;
+border-color:white;
+}
+
+li{
+list-style-type: none;
+display:inline;
+padding-right:3%;
+}
+
+h2{
+text-align:center;
+}
+
+#sampic2 {
+float:right;
+margin:0px;
+margin-top:-205px;
+margin-right:30px;
+}
+
+tr{
+border:solid;
+border-color:red;
+text-align:center;
+}
+
+td{
+border:solid;
+border-color:white;
+padding-right:8%;
+border-width:10px;
+}
+
+#androidparticles{
+position: justify;
+left:20%;
+
+}
+
+#table1{
+margin-left:26%;
+border:solid;
+margin-bottom:5%;
+}
+#table2{
+border:solid;
+margin-left:35%;
+margin-bottom:5%;
+}
+
+#table3{
+border:solid;
+margin-left:35%;
+margin-bottom:5%;
+}
+
+#table4{
+border:solid;
+margin-left:35%;
+margin-bottom:5%;
+}
+
+#table5{
+border:solid;
+margin-left:35%;
+margin-bottom:5%;
+}
+
+#table6{
+border:solid;
+margin-left:28%;
+margin-bottom:5%;
+}
+
+a:hover {
+    color: red;
+}
+
+a {
+    padding:10px;
+    color:white;
+}
